@@ -9,12 +9,13 @@ class sample_library_reorganizer:
         self.flat_folder_keywords = {
             "kick": ["kick", "kicks"],
             "snare": ["snare", "snares", "rim", "rims"],
-            "hihat": [],
-            "tops": [],
-            "percussion": [],
-            "loops": [],
-            "sfx": [],
-            "keys_piano": [],
+            "hihat": ["hats", "hat", "hihat", "hi-hat", "open-hat", "pedal-hat", "hh"],
+            "tops": ["ride", "crash", "cymbol", ""],
+            "percussion": ["toms", ""],
+            "loops": [""],
+            "sfx": [""],
+            "keys_piano": ["piano", "keys", ""],
+            "guitars": [""]
             "guitar": [],
             "other": []
         }
